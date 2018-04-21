@@ -55,6 +55,26 @@ h2 {
 	margin-top: 5px;
 }
 
+h3 {
+	font-size: 20px;
+	color: gray;
+	font-family: sans-serif;
+	font-weight: bold;
+	margin-left: 15px;
+}
+
+h4 {
+	font-size: 25px;
+	color: white;
+	font-family: sans-serif;
+	font-weight: bold;
+	background-color: gray;
+	text-align: center;
+	padding: 10px;
+	width: 100px;
+	margin-left: 15px;
+}
+
 p {
 	font-size:14px;
 	color: black;
@@ -139,4 +159,52 @@ img {
     background-color: gray;
 	padding: 10px;
 	text-align: center;
+}
+
+.ninput{
+	color: white;
+	background-color: white;
+	border: 10px;
+	height: 30px;
+	width: 95%;
+	margin:auto;
+	border-color: lightgray;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.einput{
+	color: white;
+	background-color: white;
+	border: 10px;
+	height: 30px;
+	width: 95%;
+	margin:auto;
+	border-color: lightgray;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.minput{
+	color: white;
+	background-color: white;
+	border: 10px;
+	height: 100px;
+	width: 95%;
+	margin:auto;
+	border-color: lightgray;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.ninput:hover{
+	color: lightgray;
+}
+
+.einput:hover{
+	color: lightgray;
+}
+
+.minput:hover{
+	color: lightgray;
 }
