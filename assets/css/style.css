@@ -1,0 +1,142 @@
+body {
+	background-color: black;
+	size: 960px;
+}
+
+header{
+	background-color: lightgray;
+	font-weight: bold;
+	font-family: sans-serif;
+	position: relative;
+	height: 80px;
+}
+
+nav {
+	font-size: 20px;
+	text-align: right;
+	padding-left: 0;
+	padding-bottom: 0;
+	float:right;
+	margin-top: 30px;
+	margin-right: 30px;
+}
+
+.name {
+	font-size: 50px;
+	color: white;
+	float: left;
+	margin-left: 50px;
+	height:60px;
+	background-color:gray;
+	margin-top:0px;
+	padding: 10px;
+}
+
+.section {
+	size: 960px ;
+}
+
+.container {
+	background-color: lightgray;
+	width: 60%;
+	margin: auto;
+	height: 500px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+
+h2 {
+	font-size: 30px;
+	color: gray;
+	font-family: sans-serif;
+	font-weight: bold;
+	margin-left: 15px;
+	margin-top: 5px;
+}
+
+p {
+	font-size:14px;
+	color: black;
+	font-family: sans-serif;
+	margin-right: 10px;
+	text-align: justify;
+
+}
+
+footer{
+	background-color: lightgray;
+	font-weight: bold;
+	font-family: sans-serif;
+	padding: 30px;
+	text-align: center;
+}
+
+img {
+	float:left;
+	padding-right: 5px;
+	padding-bottom: 5px;
+}
+
+.portpics {
+	float: middle;
+	padding-right: 5px;
+	padding-left: 30px;
+	padding-top: 20px;
+}
+
+.button {
+	position: relative;
+	text-align: center;
+	color: white;
+}
+
+.banner1 {
+	position: absolute;
+	top: 90%;
+    left: 27%;
+    color: white;
+    background-color: gray;
+	padding: 10px;
+	text-align: center;
+}
+
+.banner2 {
+	position: absolute;
+	top: 90%;
+    left: 45%;
+    color: white;
+    background-color: gray;
+	padding: 10px;
+	text-align: center;
+}
+
+.banner3 {
+	position: absolute;
+	top: 90%;
+    left: 65%;
+    color: white;
+    background-color: gray;
+	padding: 10px;
+	text-align: center;
+}
+
+.banner4 {
+	position: absolute;
+	top: 143%;
+    left: 27%;
+    color: white;
+    background-color: gray;
+	padding: 10px;
+	text-align: center;
+}
+
+.banner5 {
+	position: absolute;
+	top: 143%;
+    left: 45%;
+    color: white;
+    background-color: gray;
+	padding: 10px;
+	text-align: center;
+}
